@@ -85,4 +85,3 @@ Python Libraries: `pandas`, `scikit-learn`
 
 --- 
 
-This README should provide a clear and organized overview of your project. Make sure the links and any additional resources are correctly referenced. Let me know if you’d like any further customization!
