@@ -1,4 +1,3 @@
-Here’s a structured **README** for your VandyDataScience (VDS) EM/Dev Assessment project:
 
 ---
 
