@@ -3,7 +3,6 @@
 
 # VandyDataScience EM/Dev Assessment 2024
 
-**Deadline:** October 24, 2024 at 11:59 PM
 
 👋 **Welcome!** This repository contains my submission for the VandyDataScience (VDS) 2024 EM/Dev assessment, where I used data science techniques to analyze and model a real-world dataset. I'm excited to contribute to the VDS community by exploring impactful ways to utilize data!
 
